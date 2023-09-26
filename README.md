@@ -1,16 +1,31 @@
-### Hi there 👋
+## Olá, Meu nome é Samuel Iago de Farias Cabral.
 
-<!--
-**samuelIago/samuelIago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No momento sou estudante de TI na UFERSA.
+Eu sempre tive um interesse em computadores e em tecnologia em geral mas principalmente em jogos,🎮. 
+Por esse motivo fiquei feliz quando descobri oque era programação então decidi seguir como carreira ser um programador.
+Posso estar apenas no inicio, mas é como o ditado diz, "Devagar se vai longe".
+Nunca trabalhei no momento, mas espero que no futuro eu tenha essa oportunidade.
 
-Here are some ideas to get you started:
+## Linguagens que sei o básico:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+                    
+                              
+## linguagens de marcação que sei o básico são:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens que planejo apreder:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+
+No momento são essas, provavelmente no futuro quando eu tiver mais experiência, minha curiosidade crescerá.
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelIago&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelIago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+          
+          
+
+          

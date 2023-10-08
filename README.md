@@ -19,6 +19,7 @@ Nunca trabalhei no momento, mas espero que no futuro eu tenha essa oportunidade.
 
 No momento são essas, provavelmente no futuro quando eu tiver mais experiência, minha curiosidade crescerá.
 
+
 ## Hobbies
 
 Jogar 🎮👾.                    Assitir series e animes.

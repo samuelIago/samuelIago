@@ -23,7 +23,7 @@ No momento são essas, provavelmente no futuro quando eu tiver mais experiência
 
 ## Hobbies
 
-Jogar 🎮👾.                    Assitir series e animes.
+Jogar 🎮👾.                    Assitir séries e animes.
 
 
 <div>

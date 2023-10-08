@@ -1,7 +1,8 @@
 ## Olá, Meu nome é Samuel Iago de Farias Cabral.
 
 No momento sou estudante de TI na UFERSA.
-Eu sempre tive um interesse em computadores e em tecnologia em geral, principalmente, em jogos,🎮. 
+Eu sempre tive um interesse em computadores e em tecnologia em geral, principalmente, em jogos,🎮.
+
 Por esse motivo fiquei feliz quando descobri oque era programação então decidi seguir como carreira ser um programador.
 Posso estar apenas no inicio, mas é como o ditado diz, "Devagar se vai longe".
 Nunca trabalhei no momento, mas espero que no futuro eu tenha essa oportunidade.

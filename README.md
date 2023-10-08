@@ -19,6 +19,11 @@ Nunca trabalhei no momento, mas espero que no futuro eu tenha essa oportunidade.
 
 No momento são essas, provavelmente no futuro quando eu tiver mais experiência, minha curiosidade crescerá.
 
+## Hobbies
+
+Jogar 🎮👾.                    Assitir series e animes.
+
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelIago&layout=compact&langs_count=7&theme=dracula"/>

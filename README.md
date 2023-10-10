@@ -15,7 +15,7 @@ Nunca trabalhei no momento, mas espero que no futuro eu tenha essa oportunidade.
 ## linguagens de marcação que sei o básico são:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 
-## Linguagens que planejo apreder:
+## Linguagens que planejo aprender:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 
 No momento são essas, provavelmente no futuro quando eu tiver mais experiência, minha curiosidade crescerá.
